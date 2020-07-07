@@ -1,0 +1,6 @@
+include ':remote'
+include ':presentation'
+include ':local'
+include ':data'
+include ':app'
+rootProject.name = "SplashDemo2"
